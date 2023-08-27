@@ -1,16 +1,17 @@
-### Hi there 👋
+## Welcome to my GitHub, I'm Sebastian 👋
+
+<p align="center">
+<a rel="me" href="https://infosec.exchange/@ThisReT4r2eT0"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109576062008798233?domain=https%3A%2F%2Finfosec.exchange"></a></br>
+<a href="https://discuss.elastic.co/u/Sebastian_Huettersen"><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/></a>
+</p>
 
 <!--
+## 🔭 I’m currently working on elastic integrations
+
+## Interests 🔥
+|🤖|💻|
+| --- | --- |
+| TODO | TODO |
+
 **SebastianHuettersen/SebastianHuettersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
