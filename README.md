@@ -2,7 +2,6 @@
 
 <p align="center">
 <a rel="me" href="https://infosec.exchange/@ThisReT4r2eT0"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109576062008798233?domain=https%3A%2F%2Finfosec.exchange"></a></br>
-<a href="https://discuss.elastic.co/u/Sebastian_Huettersen"><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch"/></a>
 </p>
 
 <!--
